@@ -1,6 +1,6 @@
 # customer_complaint
 
-For this project, by using a public consumer complaint database(https://www.consumerfinance.gov/data-research/consumer-complaints/), I analyzed the pattern of the complaints and trained a machine learning model to classify each complaint’s topic. 
+For this project, by using [a public consumer complaint database](https://www.consumerfinance.gov/data-research/consumer-complaints/), I analyzed the pattern of the complaints and trained a machine learning model to classify each complaint’s topic. 
 
 ## Dataset
 2.1M cases (rows)
